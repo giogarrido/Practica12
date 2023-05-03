@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "145582458025",
+    "project_id": "imageuploadfirebase-be89a",
+    "storage_bucket": "imageuploadfirebase-be89a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:145582458025:android:29ae883f32743f11f615b8",
+        "android_client_info": {
+          "package_name": "mx.edu.itson.practica12"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "145582458025-3od506valbfb13ifu58c9k8j91plndrn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAk-Xpd4USi2yxQZQHFWt0I5DM3M-FAeLI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "145582458025-3od506valbfb13ifu58c9k8j91plndrn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
